@@ -373,11 +373,11 @@ class _PlayerState extends State<Player> {
                     _update();
                   },
                   child: const Icon(Icons.skip_next),
-                ),
-              ],
-            ),
-          ),
-        ],
+                )
+              ]
+            )
+          )
+        ]
       )
     );
   }
